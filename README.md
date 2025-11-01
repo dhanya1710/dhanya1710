@@ -2,7 +2,7 @@
 
 🎓 **Department:** CSPIT | Computer Science (CS’29)  
 💼 **Position:** PR Head at Tech-Genius, CSPIT  
-📍 **College:** Charotar University of Science and Technology (CHARUSAT)  
+📍 **University:** Charotar University of Science and Technology (CHARUSAT)  
 
 ---
 
