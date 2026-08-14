@@ -1,9 +1,9 @@
 name: Generate GitHub Trophies
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * 1"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,12 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate trophy
+      - name: Generate Trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: dhanya1710
-          output_path: dist/trophy.svg
+          file: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          theme: radical
+          no-frame: true
+          no-background: true
+          max-cols: 7
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
