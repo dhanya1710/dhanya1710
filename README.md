@@ -151,13 +151,11 @@ I'm a **Computer Science student at CHARUSAT** who's just as comfortable behind 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/dhanya1710/dhanya1710/output/trophy.svg"
-  alt="GitHub Trophies"
-  width="95%"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/dhanya1710/dhanya1710/output/trophy.svg"
+    alt="GitHub Trophies"
+    width="95%"
+  />
 </div>
 
 <br>
