@@ -1,9 +1,9 @@
 name: Generate GitHub Trophies
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * 1"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,23 +13,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: dhanya1710
-          token: ${{ secrets.GITHUB_TOKEN }}
-          file: trophy.svg
-          theme: radical
-          no-frame: true
-          no-background: true
-          max-cols: 7
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Move trophy into dist
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Clone Trophy Generator
+        run: git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git trophy-generator
+
+      - name: Generate Trophy SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p dist
-          mv trophy.svg dist/trophy.svg
+          cd trophy-generator
+          deno run \
+            --allow-net \
+            --allow-env \
+            --allow-read \
+            --allow-write \
+            ./render_svg.ts \
+            dhanya1710 \
+            ../dist \
+            radical
 
-      - name: Push to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
