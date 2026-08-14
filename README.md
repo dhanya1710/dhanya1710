@@ -1,49 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20Everyone!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Let's%20Connect%20and%20have%20a%20Chat!%20💬&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://github.com/dhanya1710">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Dhanya+Vala!;Computer+Science+Student+%F0%9F%8E%93;Creative+%26+Curious+by+Nature+%E2%9C%A8;Let's+build+something+cool+together!&font=Fira%20Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&height=50&random=false"/>
-</a>
-
-<br>
-
-<a href="https://www.linkedin.com/in/dhanya-vala-96b643375/" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
-<a href="mailto:dhanyavala@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/></a>
-<a href="https://github.com/dhanya1710" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" width="40"/></a>
-<a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
-<a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/twitter.png" width="40"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0274BD,50:C4AD9D,100:F57251&height=260&section=header&text=Yoo%20Wassup&fontSize=50&fontColor=000000&fontAlignY=40&animation=fadeIn&desc=Let's%20Connect!%20💬&descAlignY=62&descSize=20&descColor=000000" width="100%"/>
 
 </div>
 
-<br>
+<p align="center">
+  <img src="./name-banner.png" width="700"/>
+</p>
+<h3 align="center">Computer Science Student · Builder · Communicator</h3>
 
-<div align="center">
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+connections;Code+by+day%2C+conversations+by+choice;Always+chasing+the+next+thing+to+learn&font=Poppins&size=22&pause=1400&color=F57251&center=true&vCenter=true&width=650&height=40&random=false"/>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dhanya-vala-96b643375/" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="38"/></a>&nbsp;
+<a href="mailto:dhanyavala@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="38"/></a>&nbsp;
+<a href="https://github.com/dhanya1710" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" width="38"/></a>
+</p>
 
 <br>
 
 ## 🌟 About Me
 
-I'm a passionate and creative Computer Science student who loves exploring **technology, communication, and collaboration**. I bridge the gap between innovation and people — managing outreach, building connections, and representing ideas with enthusiasm.
+I'm a Computer Science student at CHARUSAT who's just as comfortable behind a keyboard as in front of a room. I like taking things apart to understand how they work — code, conversations, communities — and rebuilding them a little better.
 
-I believe in the power of tech to connect people and ideas, and I'm always eager to **learn, share, and grow** within dynamic communities.
+<div align="center">
 
-- 🎓 **Department:** CSPIT | Computer Science (CS'29)
-- 📍 **University:** Charotar University of Science and Technology (CHARUSAT)
-- ⚡ Fun fact: I love turning ideas into connections!
+|  |  |
+|---|---|
+| 🎓 **Program** | CSPIT · Computer Science, Class of 2029 |
+| 📍 **University** | Charotar University of Science and Technology |
+| ⚡ **Driven by** | Curiosity, connection, and a good challenge |
+
+</div>
 
 ## 🧠 Interests & Skills
 
 <div align="center">
 
-![Public Relations](https://img.shields.io/badge/Public_Relations-6C63FF?style=for-the-badge&logo=googlemeet&logoColor=white)
-![Community Engagement](https://img.shields.io/badge/Community_Engagement-FF6B6B?style=for-the-badge&logo=peertube&logoColor=white)
-![Event Planning](https://img.shields.io/badge/Event_Planning-4ECDC4?style=for-the-badge&logo=googlecalendar&logoColor=white)
-![Team Coordination](https://img.shields.io/badge/Team_Coordination-FFD93D?style=for-the-badge&logo=slack&logoColor=black)
-![Creative Communication](https://img.shields.io/badge/Creative_Communication-FF9F45?style=for-the-badge&logo=canva&logoColor=white)
-![Tech Innovation](https://img.shields.io/badge/Tech_%26_Digital_Media-845EC2?style=for-the-badge&logo=techcrunch&logoColor=white)
+![Public Relations](https://img.shields.io/badge/Public_Relations-0274BD?style=for-the-badge&logo=googlemeet&logoColor=E9E6DD)
+![Community Engagement](https://img.shields.io/badge/Community_Engagement-F57251?style=for-the-badge&logo=peertube&logoColor=E9E6DD)
+![Event Planning](https://img.shields.io/badge/Event_Planning-C4AD9D?style=for-the-badge&logo=googlecalendar&logoColor=000000)
+![Creative Communication](https://img.shields.io/badge/Creative_Communication-F57251?style=for-the-badge&logo=canva&logoColor=E9E6DD)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=F57251)
+![Digital Media](https://img.shields.io/badge/Digital_Media-0274BD?style=for-the-badge&logo=techcrunch&logoColor=E9E6DD)
 
 </div>
 
@@ -51,45 +52,40 @@ I believe in the power of tech to connect people and ideas, and I'm always eager
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0274BD?style=for-the-badge&logo=openjdk&logoColor=E9E6DD)
+![C++](https://img.shields.io/badge/C%2B%2B-F57251?style=for-the-badge&logo=cplusplus&logoColor=E9E6DD)
+![JavaScript](https://img.shields.io/badge/JavaScript-C4AD9D?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-0274BD?style=for-the-badge&logo=html5&logoColor=E9E6DD)
+![CSS3](https://img.shields.io/badge/CSS3-F57251?style=for-the-badge&logo=css3&logoColor=E9E6DD)
+![Git](https://img.shields.io/badge/Git-C4AD9D?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E9E6DD)
+![Figma](https://img.shields.io/badge/Figma-0274BD?style=for-the-badge&logo=figma&logoColor=E9E6DD)
 
 </div>
 
-## 🔥 My Stats
+## 🔥 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanya1710&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanya1710&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanya1710&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=F57251&icon_color=0274BD&text_color=E9E6DD"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanya1710&layout=compact&hide_border=true&bg_color=000000&title_color=F57251&text_color=E9E6DD"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanya1710&theme=radical&hide_border=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanya1710&hide_border=true&background=000000&stroke=0274BD&ring=F57251&fire=F57251&currStreakLabel=E9E6DD&sideLabels=E9E6DD&currStreakNum=E9E6DD&sideNums=E9E6DD&dates=C4AD9D" alt="streak stats"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanya1710&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanya1710&hide_border=true&bg_color=000000&color=E9E6DD&line=F57251&point=0274BD&area_color=0274BD&area=true" width="100%"/>
 
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 <div align="center">
 
-### ⭐ "Connecting people through ideas, innovation, and creativity."
+### ⭐ Connecting people through ideas, innovation, and creativity.
 
-<img src="https://komarev.com/ghpvc/?username=dhanya1710&style=for-the-badge&color=6C63FF" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=dhanya1710&style=for-the-badge&color=F57251" alt="profile views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F57251,50:C4AD9D,100:0274BD&height=100&section=footer" width="100%"/><img width="1400" height="420" alt="name-banner" src="https://github.com/user-attachments/assets/9efb34c5-a953-45be-ba65-21c52b6042e1" />
