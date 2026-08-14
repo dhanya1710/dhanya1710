@@ -231,7 +231,9 @@ I'm a **Computer Science student at CHARUSAT** who's just as comfortable behind 
 
 ### ⭐ Connecting people through ideas, innovation, and creativity.
 
-<img src="https://komarev.com/ghpvc/?username=dhanya1710&style=for-the-badge&color=F57251&label=PROFILE+VIEWS" alt="profile views" />
+<a href="https://github.com/dhanya1710?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-0274BD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
