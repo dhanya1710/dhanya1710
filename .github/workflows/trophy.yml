@@ -17,12 +17,17 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: dhanya1710
-          file: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          file: trophy.svg
           theme: radical
           no-frame: true
           no-background: true
           max-cols: 7
+
+      - name: Move trophy into dist
+        run: |
+          mkdir -p dist
+          mv trophy.svg dist/trophy.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
